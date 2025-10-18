@@ -1,4 +1,4 @@
-#This file is made for assignment
+#life is too short so it is beatiful
 
 print("Hello World")
 
